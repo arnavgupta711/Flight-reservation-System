@@ -1,6 +1,6 @@
 A Flight Reservation System (FRS) is a software application used by airlines, travel agencies, and customers to book and manage flights. It is an essential part of airline operations, helping streamline ticket reservations, flight schedules, passenger check-ins, and more.
 
-**Key Features of a Flight Reservation System
+*Key Features of a Flight Reservation System*
   1. Flight Search & Booking – Allows users to search for available flights based on departure and destination cities, travel dates, and other filters.
   2. Ticket Management – Generates electronic tickets (e-tickets) and manages booking confirmations.
   3. Passenger Management – Stores customer details, preferences, and travel history.
